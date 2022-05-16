@@ -10,7 +10,7 @@
 
 - 👨‍💻 Working as a **System Develope**r @ **<a href="http://synqrinus.com/"> Synqinus Inc. </a>**
 
-- 🌱 I’m currently learning: **Deep Learning and Neural Networks**
+- 🌱 I’m currently learning: **Blockchain Development**
 
 - 📫 How to reach me **modi.parth152@gmail.com**
 
