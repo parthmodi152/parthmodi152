@@ -8,7 +8,7 @@
 
 - 🏫 I'm a **Computer Science** student at **University of Waterloo**
 
-- 👨‍💻 Working as a **System Develope**r @ **<a href="http://synqrinus.com/"> Synqinus Inc. </a>**
+- 👨‍💻 Working as a **Software Developer** @ **<a href="https://adentro.com"> Adentro Inc. </a>**
 
 - 🌱 I’m currently learning: **Blockchain Development**
 
