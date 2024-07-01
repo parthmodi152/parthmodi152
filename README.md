@@ -8,9 +8,9 @@
 
 - 🏫 I'm a **Computer Science** student at **University of Waterloo**
 
-- 👨‍💻 Working as a **Software Developer** @ **<a href="https://adentro.com"> Adentro Inc. </a>**
+- 👨‍💻 Working as a **Software Developer** in **Backoffice** team @ **<a href="https://thescore.bet/"> theScore </a>**
 
-- 🌱 I’m currently learning: **Blockchain Development**
+- 🌱 I’m currently learning: **Quant Finance and Algorthmic Trading**
 
 - 📫 How to reach me **modi.parth152@gmail.com**
 
